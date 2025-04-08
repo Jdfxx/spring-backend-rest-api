@@ -10,9 +10,7 @@ import java.sql.Timestamp;
 import java.util.Set;
 import java.util.UUID;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
+
 @Builder
 @Data
 @AllArgsConstructor
